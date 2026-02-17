@@ -85,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+imagen CSS Diner completado
+![CSS Diner completado](Captura%20de%20pantalla%202026-02-17%20090502.png)
