@@ -88,3 +88,7 @@ section {
 
 imagen CSS Diner completado
 ![CSS Diner completado](Captura%20de%20pantalla%202026-02-17%20090502.png)
+imagen Flexbox Froggy completado
+![Flexbox Froggy completado](Captura%20de%20pantalla%2026-02-20%082321.png)
+imagen Grid Garden completado
+![Grid Garden](Captura%de%pantalla%2026-02-20%082147.png)
